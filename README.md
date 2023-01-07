@@ -1,5 +1,5 @@
 ## Hello 👋 
-My name is Sabut0l. I am an amateur programmer
+My name is Sabut0l. I am an amateur programmer.
 
 <!--
 Here are some ideas to get you started:
